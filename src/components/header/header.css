@@ -1,0 +1,14 @@
+.header_title{
+    
+
+}
+
+.title_container {
+    display: flex;
+
+}
+
+.feature_container {
+    display: flex;
+    justify-content: space-around;
+}

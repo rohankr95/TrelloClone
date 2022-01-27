@@ -1,0 +1,15 @@
+.card{
+    height: 11rem;
+    width: 25vw;
+    margin: 2rem 2rem;
+    background-color: rgb(219, 190, 115);
+    box-shadow: darkgoldenrod;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+.button_container{
+    display: flex;
+    justify-content: flex-end;
+}
